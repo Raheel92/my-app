@@ -1,4 +1,4 @@
-# View Live Demo Link
+# README - TICTACTOE Game
 Click here to access: [Live Demo](https://master.d8i3xuk4ncbvd.amplifyapp.com/). 
 
 ![Screenshot 2022-08-08 at 12 41 32](https://user-images.githubusercontent.com/22790665/183410276-298299b4-7e6b-41b4-9b92-76b2797af969.png)
