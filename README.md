@@ -1,5 +1,12 @@
 # View Live Demo Link
-Click here to access: [Live Demo](https://master.d8i3xuk4ncbvd.amplifyapp.com/)
+Click here to access: [Live Demo](https://master.d8i3xuk4ncbvd.amplifyapp.com/). 
+
+![Screenshot 2022-08-08 at 12 41 32](https://user-images.githubusercontent.com/22790665/183410276-298299b4-7e6b-41b4-9b92-76b2797af969.png)
+
+
+Hosted on AWS Amplify.
+
+![index](https://user-images.githubusercontent.com/22790665/183410682-875ad325-4e7b-44ef-bd64-8f1d2656732f.png)
 
 # Getting Started with Create React App
 
